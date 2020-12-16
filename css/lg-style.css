@@ -1,0 +1,19 @@
+@media(min-width:1200px) { 
+    .hero {
+        height: 35vw;
+        background-position: bottom;
+    }
+    
+    .hero > .page-name {
+        font-size: 5vw;
+    }
+
+    .hero-blog-post {
+        height: 30vw;
+    }
+
+    .nav-item{
+        width:200px;
+        padding: 20px;
+    }
+}
